@@ -16,7 +16,7 @@ const Speread= [...Marvel_Heros,...DC_Heros] ///#2 by usinf spread operator we c
 
 // taking out array from arrays
 const Another_Array=[3,2,[1,2],5,[5,7,8,9],3,[9,5,[1,2,35,2]]]
-console.log(Another_Array);
+console.log(Another_Array); 
 const real_another_array=Another_Array.flat(Infinity)
 console.log(real_another_array);
 
