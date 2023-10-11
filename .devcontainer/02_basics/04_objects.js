@@ -45,3 +45,28 @@ let employee = {
 };
 
 console.log(employee);
+
+
+
+/// #1 Object cration 
+let Objcreation= {
+    name:"IBrhaim",
+    age:50,
+    email:"MohdIBrahim@gmail.com"
+};
+//#2 JSON it will look like a Object but it will have both side string 
+// this is how api will fetch data in the form of JSON 
+// {
+//     "Name": "Mohd IBrahim",
+//     "age":28,
+//     "Course": "JS"
+// }
+/// it may also get data in Array 
+
+// [
+//     "Name": "Mohd IBrahim",
+//     //     "age":28,
+//     //     "Course": "JS"
+// ]
+
+
